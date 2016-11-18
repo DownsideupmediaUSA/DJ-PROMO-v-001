@@ -1,6 +1,8 @@
 # README
 
-This ruby on rails music player application which allows
+Welcome to Brandon's DJ promo app!
+
+This is a ruby on rails music player application which allows
 registered users to listen to, comment on and download pre released works from ABC label. This application will feature the following:
 
 -User will be asked to either sign in or fill out signup form
